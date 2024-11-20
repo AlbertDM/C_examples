@@ -1,0 +1,3 @@
+[submodule "ModernC/C23_Stanczyk_book"]
+	path = ModernC/C23_Stanczyk_book
+	url = git@github.com:stanczyk/src.book.c.git
